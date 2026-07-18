@@ -75,6 +75,18 @@ The dashboard enables operations teams to
 | File | Description |
 |------|-------------|
 | IT_Service_Desk.pbix | Power BI project |
-| dataset.csv | Sample dataset |
+| aa_dataset-tickets-multi-lang-5-2-50-version.csv | Sample dataset |
 | queries.sql | SQL transformations |
 | DAX_Measures.md | DAX calculations |
+
+---
+
+## Dataset
+
+This dashboard was developed using the **Customer IT Support Ticket Dataset** by Tobias Bueck.
+
+Dataset Source:
+https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets
+
+License:
+CC BY 4.0
