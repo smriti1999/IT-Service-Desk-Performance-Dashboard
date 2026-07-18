@@ -20,7 +20,7 @@ This dashboard was built to help operations teams monitor service performance an
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
